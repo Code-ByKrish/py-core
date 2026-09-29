@@ -1,0 +1,266 @@
+date,description,category,amount,payment_method
+2026-04-01,Lunch at canteen,Food,220,UPI
+2026-04-01,Concert ticket,Entertainment,240,Credit Card
+2026-04-01,Room rent share,Bills,9000,UPI
+2026-04-04,Myntra order,Shopping,2575,Cash
+2026-04-05,Cafe coffee,Food,240,UPI
+2026-04-06,Groceries - BigBasket,Food,275,UPI
+2026-04-06,Lunch at canteen,Food,140,Credit Card
+2026-04-08,Amazon order,Shopping,2620,Debit Card
+2026-04-08,Groceries - BigBasket,Food,125,UPI
+2026-04-09,Flipkart order,Shopping,2125,Cash
+2026-04-09,Street food,Food,210,UPI
+2026-04-10,Electricity bill,Bills,960,Credit Card
+2026-04-10,Flipkart order,Shopping,780,UPI
+2026-04-10,Lunch at canteen,Food,480,Cash
+2026-04-11,Myntra order,Shopping,1985,UPI
+2026-04-11,Groceries - BigBasket,Food,235,Cash
+2026-04-12,Lunch at canteen,Food,560,UPI
+2026-04-12,Zomato order,Food,540,Credit Card
+2026-04-13,Cafe coffee,Food,580,UPI
+2026-04-14,Petrol,Transport,95,UPI
+2026-04-15,Auto rickshaw,Transport,380,Credit Card
+2026-04-16,Uber ride,Transport,500,UPI
+2026-04-16,Metro recharge,Transport,385,UPI
+2026-04-17,Street food,Food,320,UPI
+2026-04-18,Local market,Shopping,1970,Debit Card
+2026-04-19,Street food,Food,145,Debit Card
+2026-04-19,Spotify,Entertainment,119,Credit Card
+2026-04-20,Street food,Food,580,UPI
+2026-04-21,Concert ticket,Entertainment,1380,Cash
+2026-04-21,Street food,Food,370,UPI
+2026-04-21,Swiggy order,Food,385,Debit Card
+2026-04-22,Local market,Shopping,315,UPI
+2026-04-22,Internet bill,Bills,680,UPI
+2026-04-22,Electricity bill,Bills,370,Credit Card
+2026-04-23,Stationery,Education,1960,UPI
+2026-04-23,Myntra order,Shopping,1110,Debit Card
+2026-04-24,Cafe coffee,Food,510,Cash
+2026-04-25,Street food,Food,450,Credit Card
+2026-04-26,Uber ride,Transport,135,UPI
+2026-04-26,Cafe coffee,Food,210,UPI
+2026-04-28,Zomato order,Food,595,UPI
+2026-04-28,Swiggy order,Food,240,Credit Card
+2026-04-29,Cafe coffee,Food,410,UPI
+2026-04-30,Mobile recharge,Bills,390,Cash
+2026-04-30,Petrol,Transport,225,Cash
+2026-05-01,Room rent share,Bills,9000,UPI
+2026-05-02,Amazon order,Shopping,1560,UPI
+2026-05-02,Electricity bill,Bills,695,UPI
+2026-05-03,Swiggy order,Food,240,UPI
+2026-05-04,Cafe coffee,Food,135,Cash
+2026-05-04,Online course,education,2430,UPI
+2026-05-05,Uber ride,Transport,435,UPI
+2026-05-06,Groceries - BigBasket,Food,230,Credit Card
+2026-05-07,Local market,Shopping,755,UPI
+2026-05-08,Street food,Food,390,Cash
+2026-05-09,Groceries - BigBasket,Food,365,Debit Card
+2026-05-10,Online course,Education,2160,UPI
+2026-05-11,Myntra order,Shopping,1560,Debit Card
+2026-05-12,Amazon order,shopping,1610,Debit Card
+2026-05-13,Lunch at canteen,Food,195,Cash
+2026-05-14,Swiggy order,Food,465,UPI
+2026-05-15,Pharmacy,Health,165,Debit Card
+2026-05-16,Online course,Education,1435,Debit Card
+2026-05-16,Lunch at canteen,Food,580,UPI
+2026-05-16,Uber ride,Transport,235,Debit Card
+2026-05-17,Amazon order,Shopping,2420,Debit Card
+2026-05-17,Street food,Food,140,UPI
+2026-05-18,Mobile recharge,Bills,745,Debit Card
+2026-05-19,Street food,Food,440,UPI
+2026-05-20,Zomato order,Food,135,Credit Card
+2026-05-21,Lunch at canteen,Food,520,Cash
+2026-05-21,Online course,Education,1905,Debit Card
+2026-05-22,Metro recharge,Transport,65,Cash
+2026-05-22,Gym membership,Health,1200,UPI
+2026-05-23,Swiggy order,Food,105,UPI
+2026-05-24,Electricity bill,Bills,2000,UPI
+2026-05-24,Amazon order,Shopping,1400,Debit Card
+2026-05-25,Ola ride,Transport,380,UPI
+2026-05-25,Mobile recharge,Bills,1965,UPI
+2026-05-26,Doctor consultation,Health,1475,Cash
+2026-05-27,Street food,Food,140,UPI
+2026-05-27,Mobile recharge,Bills,600,Credit Card
+2026-05-28,Mobile recharge,Bills,645,Cash
+2026-05-29,Zomato order,Food,630,UPI
+2026-05-30,Ola ride,Transport,185,UPI
+2026-06-01,Lunch at canteen,Food,100,Debit Card
+2026-06-01,Auto rickshaw,Transport,235,Debit Card
+2026-06-01,Cafe coffee,Food,190,UPI
+2026-06-01,Room rent share,Bills,9000,UPI
+2026-06-02,Cafe coffee,Food,470,Cash
+2026-06-02,Netflix,Entertainment,199,UPI
+2026-06-03,Gym membership,Health,1200,UPI
+2026-06-03,Spotify,Entertainment,119,Cash
+2026-06-03,Petrol,Transport,360,Debit Card
+2026-06-05,Gym membership,Health,1200,UPI
+2026-06-06,Cafe coffee,Food,555,UPI
+2026-06-06,Groceries - BigBasket,Food,530,Debit Card
+2026-06-07,Petrol,Transport,350,Debit Card
+2026-06-07,Uber ride,Transport,340,UPI
+2026-06-08,Flipkart order,Shopping,555,UPI
+2026-06-09,Swiggy order,Food,165,UPI
+2026-06-09,Groceries - BigBasket,Food,430,UPI
+2026-06-10,Mobile recharge,Bills,1635,Credit Card
+2026-06-11,Street food,Food,470,UPI
+2026-06-12,Street food,Food,375,UPI
+2026-06-12,Metro recharge,Transport,245,Credit Card
+2026-06-13,Stationery,Education,930,Credit Card
+2026-06-13,Local market,Shopping,2950,Debit Card
+2026-06-14,Groceries - BigBasket,Food,335,UPI
+2026-06-15,Cafe coffee,Food,355,UPI
+2026-06-15,Zomato order,,485,UPI
+2026-06-16,Cafe coffee,Food,125,UPI
+2026-06-17,Myntra order,Shopping,460,Credit Card
+2026-06-18,Metro recharge,Transport,125,Credit Card
+2026-06-19,Movie tickets,Entertainment,1300,Debit Card
+2026-06-20,Lunch at canteen,Food,250,Credit Card
+2026-06-21,Doctor consultation,,1040,Cash
+2026-06-21,Ola ride,Transport,450,Credit Card
+2026-06-22,Metro recharge,Transport,215,Cash
+2026-06-23,Uber ride,Transport,425,UPI
+2026-06-23,Stationery,Education,260,Credit Card
+2026-06-24,Amazon order,Shopping,2340,UPI
+2026-06-25,Lunch at canteen,Food,295,UPI
+2026-06-25,Auto rickshaw,Transport,390,Credit Card
+2026-06-26,Doctor consultation,Health,565,UPI
+2026-06-27,Movie tickets,Entertainment,1500,UPI
+2026-06-28,Street food,Food,105,UPI
+2026-06-29,Zomato order,Food,435,UPI
+2026-06-29,Street food,Food,145,UPI
+2026-06-29,Auto rickshaw,Transport,390,UPI
+2026-06-30,Stationery,Education,465,UPI
+2026-06-30,Online course,Education,1530,UPI
+2026-07-01,Doctor consultation,Health,805,Cash
+2026-07-01,Room rent share,Bills,9000,UPI
+2026-07-02,Myntra order,Shopping,580,UPI
+2026-07-03,Amazon order,Shopping,2840,Debit Card
+2026-07-03,Spotify,Entertainment,119,Cash
+2026-07-04,Auto rickshaw,Transport,35,Credit Card
+2026-07-05,Lunch at canteen,Food,440,Credit Card
+2026-07-05,Gaming top-up,Entertainment,360,Debit Card
+2026-07-06,Cafe coffee,Food,520,Credit Card
+2026-07-06,Ola ride,Transport,155,UPI
+2026-07-06,Electricity bill,Bills,755,Credit Card
+2026-07-07,Ola ride,Transport,345,UPI
+2026-07-09,Swiggy order,Food,280,UPI
+2026-07-09,Cafe coffee,Food,480,UPI
+2026-07-10,Uber ride,Transport,70,Cash
+2026-07-11,Uber ride,Transport,355,Cash
+2026-07-12,Metro recharge,Transport,75,UPI
+2026-07-12,Uber ride,Transport,175,Debit Card
+2026-07-13,Auto rickshaw,transport,230,Cash
+2026-07-14,Petrol,Transport,155,UPI
+2026-07-15,Spotify,Entertainment,119,Debit Card
+2026-07-16,Myntra order,Shopping,955,Credit Card
+2026-07-16,Cafe coffee,Food,635,Debit Card
+2026-07-16,Amazon order,Shopping,2955,UPI
+2026-07-17,Zomato order,Food,485,UPI
+2026-07-18,Stationery,Education,870,UPI
+2026-07-19,Movie tickets,Entertainment,1325,Debit Card
+2026-07-19,Groceries - BigBasket,Food,330,UPI
+2026-07-20,Groceries - BigBasket,Food,145,UPI
+2026-07-20,Metro recharge,Transport,300,Cash
+2026-07-20,Swiggy order,Food,540,UPI
+2026-07-22,Petrol,Transport,315,Debit Card
+2026-07-23,Petrol,Transport,455,UPI
+2026-07-24,Books,Education,1510,UPI
+2026-07-24,Amazon order,Shopping,3330,UPI
+2026-07-25,Zomato order,Food,170,UPI
+2026-07-25,Uber ride,Transport,30,Credit Card
+2026-07-26,Metro recharge,Transport,140,Cash
+2026-07-26,Groceries - BigBasket,Food,120,UPI
+2026-07-27,Concert ticket,Entertainment,1030,UPI
+2026-07-27,Ola ride,Transport,135,UPI
+2026-07-27,  Pharmacy ,Health,270,UPI
+2026-07-28,Flipkart order,Shopping,1675,Credit Card
+2026-07-28,Local market,Shopping,3315,Debit Card
+2026-07-29,Ola ride,Transport,50,Credit Card
+2026-07-30,Amazon order,Shopping,545,Cash
+2026-07-30,Electricity bill,Bills,2200,Cash
+2026-07-31,Uber ride,Transport,250,Cash
+2026-07-31,Auto rickshaw,Transport,115,Debit Card
+2026-08-01,Electricity bill,Bills,1140,Credit Card
+2026-08-01,Room rent share,Bills,9000,UPI
+2026-08-02,Myntra order,Shopping,1320,Cash
+2026-08-03,Local market,Shopping,2895,Debit Card
+2026-08-06,Groceries - BigBasket,Food,575,UPI
+2026-08-07,Petrol,Transport,55,Debit Card
+2026-08-07,Petrol,Transport,325,UPI
+2026-08-08,Auto rickshaw,Transport,235,Cash
+2026-08-09,Street food,Food,425,UPI
+2026-08-10,Zomato order,Food,395,UPI
+2026-08-10,Zomato order,Food,345,UPI
+2026-08-11,Street food,Food,245,Cash
+2026-08-11,Groceries - BigBasket,Food,640,UPI
+2026-08-12,Swiggy order,Food,605,Debit Card
+2026-08-13,Zomato order,Food,235,Credit Card
+2026-08-13,Cafe coffee,Food,230,UPI
+2026-08-14,Cafe coffee,Food,410,Cash
+2026-08-15,Cafe coffee,Food,355,UPI
+2026-08-16,Petrol,Transport,470,UPI
+2026-08-17,Groceries - BigBasket,Food,215,Credit Card
+2026-08-17,Street food,Food,350,Credit Card
+2026-08-17,Uber ride,Transport,265,UPI
+2026-08-19,Zomato order,Food,580,Credit Card
+2026-08-19,  Groceries - BigBasket ,Food,90,UPI
+2026-08-19,Uber ride,Transport,65,UPI
+2026-08-20,Amazon order,Shopping,3020,Cash
+2026-08-21,Auto rickshaw,Transport,325,Credit Card
+2026-08-21,Electricity bill,Bills,1435,UPI
+2026-08-22,Pharmacy,Health,1380,Credit Card
+2026-08-22,Stationery,Education,1820,UPI
+2026-08-23,  Amazon order ,Shopping,400,UPI
+2026-08-24,  Uber ride ,Transport,145,Credit Card
+2026-08-25,Netflix,Entertainment,199,Debit Card
+2026-08-26,Myntra order,Shopping,1865,Debit Card
+2026-08-26,Groceries - BigBasket,Food,445,Credit Card
+2026-08-27,Groceries - BigBasket,Food,595,Cash
+2026-08-28,Lunch at canteen,Food,645,UPI
+2026-08-29,Auto rickshaw,Transport,245,UPI
+2026-08-29,Groceries - BigBasket,Food,565,UPI
+2026-08-30,Ola ride,,170,Cash
+2026-08-31,Stationery,Education,1110,UPI
+2026-09-01,Amazon order,Shopping,3210,Cash
+2026-09-01,Room rent share,Bills,9000,UPI
+2026-09-02,Doctor consultation,Health,1430,UPI
+2026-09-03,Uber ride,Transport,320,Cash
+2026-09-03,Netflix,Entertainment,199,Cash
+2026-09-04,Groceries - BigBasket,Food,100,UPI
+2026-09-04,Movie tickets,Entertainment,1375,UPI
+2026-09-05,Swiggy order,Food,530,UPI
+2026-09-05,Auto rickshaw,Transport,420,UPI
+2026-09-06,Doctor consultation,,1380,UPI
+2026-09-06,  Water bill ,bills,2125,UPI
+2026-09-06,Netflix,Entertainment,199,Cash
+2026-09-07,Ola ride,Transport,200,Credit Card
+2026-09-07,Cafe coffee,Food,150,UPI
+2026-09-08,Local market,Shopping,2925,UPI
+2026-09-08,Swiggy order,Food,350,Debit Card
+2026-09-09,Ola ride,Transport,135,UPI
+2026-09-09,Local market,Shopping,3205,UPI
+2026-09-10,Zomato order,Food,620,UPI
+2026-09-10,Online course,Education,425,Debit Card
+2026-09-12,Local market,Shopping,2160,Cash
+2026-09-13,Metro recharge,Transport,420,Debit Card
+2026-09-14,Pharmacy,Health,1290,UPI
+2026-09-15,Doctor consultation,Health,315,Cash
+2026-09-16,Gym membership,Health,1200,Credit Card
+2026-09-17,Books,Education,410,UPI
+2026-09-18,Amazon order,Shopping,415,UPI
+2026-09-18,Swiggy order,Food,530,UPI
+2026-09-20,Swiggy order,Food,545,UPI
+2026-09-20,Swiggy order,Food,530,Debit Card
+2026-09-22,Swiggy order,Food,390,UPI
+2026-09-22,Zomato order,Food,155,UPI
+2026-09-23,Lunch at canteen,Food,90,UPI
+2026-09-23,Street food,Food,320,UPI
+2026-09-24,Auto rickshaw,Transport,270,UPI
+2026-09-24,Uber ride,Transport,475,UPI
+2026-09-25,Gym membership,health,1200,Credit Card
+2026-09-25,Amazon order,Shopping,450,Credit Card
+2026-09-26,Metro recharge,Transport,260,Credit Card
+2026-09-26,Zomato order,Food,265,UPI
+2026-09-28,Flipkart order,Shopping,1490,Debit Card
+2026-04-09,Street food,Food,210,UPI
+2026-05-11,Myntra order,Shopping,1560,Debit Card
